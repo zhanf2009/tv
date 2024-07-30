@@ -13,7 +13,7 @@
 	],
 	"sites": [
 	{"key":"豆瓣2","name":"📢11111","type":3,"api":"csp_Douban","searchable":0},
-	{"key":"豆瓣1","name":"📢22222","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"./jar/danmu.jar;md5;7b83c871a42078c5216a8dd2065691c0","ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhanf2009/tv/main/txt/index.htm"},
+	{"key":"豆瓣1","name":"📢22222","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"./jar/danmu.jar;md5;7b83c871a42078c5216a8dd2065691c0","ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhanf2009/tv/main/txt/ppp.json"},
 	
 	
 	//jar🎄🛶🎄🎃💘💖💖
