@@ -65,18 +65,8 @@
 	
 	 //学习
 	{"key": "初中课堂","name": "🅰️初中┃课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./b/初中课堂.json"},
-	
-	{"key": "Bili","name": "🅱️套餐2┃哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./b/哔哩套餐2.json"},
-	{"key": "软件","name": "🅰️软件┃教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./b/软件教程.json"}, 
 	{"key": "演唱会","name": "🅰️演唱会┃哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./b/演唱会.json"}, 
-	{"key": "戏曲","name": "🅰️戏曲┃合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./b/戏曲合集.json"},
-	{"key": "合集","name": "💋合集┃哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./b/合集.json"}, 
-	{"key": "MV","name": "🌈歌曲┃哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./b/歌曲MV.json"},
-	{"key": "美食","name": "🌈美食┃哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./b/美食.json"},
-	//球类
-	{"key": "球类","name": "⚽️球类┃合集","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"./b/球类合集.json"}, 
-	{"key": "球星","name": "⚽️球星┃合集","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"./b/球星合集.json"}, 
-	
+
 
 
 
