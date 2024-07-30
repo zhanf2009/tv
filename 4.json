@@ -92,24 +92,8 @@
 	
 	
 	 //学习
-	{"key": "学堂","name": "🅰️学堂┃教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"./b/学堂教育.json"}, 
-	{"key": "少儿","name": "🅰️少儿┃合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./b/少儿合集.json"},
-	{"key": "小学课堂","name": "🅰️小学┃课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./b/小学课堂.json"},
 	{"key": "初中课堂","name": "🅰️初中┃课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./b/初中课堂.json"},
-	{"key": "高中课堂","name": "🅰️高中┃课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./b/高中课堂.json"},
-	{"key":"小灯塔科学","name":"🌏科学┃小灯塔","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./b/小灯塔科学.json"},
-	{"key":"小灯塔地理","name":"🌏地理┃小灯塔","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./b/小灯塔地理.json"},
-	{"key":"小灯塔百科","name":"🌏百科┃小灯塔","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./b/小灯塔百科.json"},
-	{"key":"小灯塔国学","name":"🌏国学┃小灯塔","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./b/小灯塔国学.json"},
-	{"key":"儿童口才","name":" 🧒口才┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./b/儿童口才.json"},
-	{"key":"儿童拼音","name":" 🧒拼音┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./b/儿童拼音.json"},
-	{"key":"儿童识字","name":" 🧒识字┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./b/儿童识字.json"},
-	{"key":"儿童思维","name":" 🧒思维┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./b/儿童思维.json"},
-	{"key":"儿童英语","name":" 🧒英语┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./b/儿童英语.json"},
-	{"key":"儿童硬笔","name":" 🧒硬笔┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./b/儿童硬笔.json"},
-	{"key":"儿童编程","name":" 🧒编程┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./b/儿童编程.json"},
-	{"key":"儿童武术","name":" 🧒武术┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./b/儿童武术.json"},
-	{"key":"csp_BBB","name":"🅱️套餐┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./b/哔哩套餐1.json"},
+	
 	{"key": "Bili","name": "🅱️套餐2┃哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./b/哔哩套餐2.json"},
 	{"key": "软件","name": "🅰️软件┃教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./b/软件教程.json"}, 
 	{"key": "演唱会","name": "🅰️演唱会┃哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./b/演唱会.json"}, 
