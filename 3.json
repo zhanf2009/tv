@@ -20,7 +20,7 @@
 	{"key":"配置中心","name":"🐲配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar": "./jar/danmu.jar;md5;7b83c871a42078c5216a8dd2065691c0"},
 	{"key":"荐片","name":"💡荐片┃影视","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
 	{"key":"农民影视","name":"💡农民┃影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1},
-	{"key":"酷看影视","name":"💡欧欧┃影视","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1},
+	{"key":"酷看影视","name":"💡酷看┃影视","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1},
 	{"key":"腐剧视频","name":"💡腐剧┃影视","type":3,"api":"csp_WexFujutv","searchable":1,"changeable":1},
 	{"key":"两个磁力","name":"💡两个┃影视","type":3,"api":"csp_Wexbttwo","searchable":1,"changeable":1},
 	{"key":"在线之家","name":"💡在线┃之家","type":3,"api":"csp_Wexzxzj","searchable":1,"changeable":1},
@@ -130,7 +130,7 @@
 
 
 
-	{"key":"采集之王","name":"🐲采王┃采集","type":3,"api":"./incjs/drpy2.min.js","searchable":1,"quickSearch":1,"order_num":142,"ext":"./incjs/采集之王.js?type=url&params=./myzf/采集静态.json"},	
+	{"key":"采集之王","name":"🐲采王┃采集","type":3,"api":"./incjs/drpy2.min.js","searchable":1,"quickSearch":1,"order_num":142,"ext":"./incjs/采集之王.js?type=url&params=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhanf2009/tv/main/myzf/采集静态.json"},	
 	{"key": "应用商店","name": "🛒软件下载","type": 3,"jar":"./jar/danmu.jar;md5;7b83c871a42078c5216a8dd2065691c0","api": "csp_Market","searchable": 0,"changeable": 0,"ext": "./myzf/market.json"},
 
 
