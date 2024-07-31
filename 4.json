@@ -66,23 +66,11 @@
 	 //学习
 	{"key": "初中课堂","name": "🅰️初中┃课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./b/初中课堂.json"},
 	{"key": "演唱会","name": "🅰️演唱会┃哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./b/演唱会.json"}, 
+        {"key": "詹詹自用","name": "🅰️自用┃哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./b/詹詹自用.json"}, 
 
 
 
 
-       {
-            "key": "bili",
-            "name": "B站 | Bili[jar]",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "type": "演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
-                "cookie": ""
-            }
-        },
 
 
 
