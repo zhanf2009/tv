@@ -124,7 +124,7 @@
 
 
 
-	{"key":"采集之王","name":"🐲采王┃采集","type":3,"api":"https://xn--hnl-mf3g9f.v.nxog.top/m/js/drpy2.min.js","searchable":1,"quickSearch":1,"order_num":142,"ext":"https://xn--hnl-mf3g9f.v.nxog.top/m/js/采集之王.js?type=url&params=https://xn--hnl-mf3g9f.v.nxog.top/m/json/采集静态.json"},	
+	{"key":"采集之王","name":"🐲采王┃采集","type":3,"api":"https://xn--hnl-mf3g9f.v.nxog.top/m/js/drpy2.min.js","searchable":1,"quickSearch":1,"order_num":142,"ext":"./incjs/采集之王.js?type=url&params=./zjson/采集静态.json"},	
 	{"key": "应用商店","name": "🛒软件下载","type": 3,"jar":"./jar/danmu.jar;md5;7b83c871a42078c5216a8dd2065691c0","api": "csp_Market","searchable": 0,"changeable": 0,"ext": "./myzf/market.json"},
 	
 
